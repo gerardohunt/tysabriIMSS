@@ -1,0 +1,85 @@
+img{
+	position: absolute;
+}
+.titulo {
+	position: absolute;
+	left: 126px;
+	top: 29px;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+.titulo img {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	width: auto;
+}
+
+
+.subtitulo{
+	top: 173px;
+	left: 136px;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+.grafica1{
+	top: 265px;
+	left: 136px;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+.grafica2{
+	top: 274px;
+	left: 169px;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+
+.grafica3{
+	top: 339px;
+	left: 224px;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}
+
+.grafica4{
+	top: 424px;
+	left: 223px;
+	-webkit-animation-delay: 3.5s;
+	-o-animation-delay: 3.5s;
+	animation-delay: 3.5s;
+}
+
+.grafica5{
+	top: 316px;
+	left: 644px;
+	-webkit-animation-delay: 4s;
+	-o-animation-delay: 4s;
+	animation-delay: 4s;
+}
+
+.img1{
+	bottom: 89px;
+	left: 233px;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+.txt1 {
+	display: block;
+	position: absolute;
+	left: 127px;
+	top: 183px;
+	z-index: 10;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
